@@ -177,10 +177,6 @@ Versão 2: ESP32 · C++ (Arduino IDE) · Bluepad32 · Edge Impulse (TinyML) · P
 
 Versão 1: Arduino Uno · C++ (Arduino IDE) · L298N · HC-05 (Bluetooth) · HC-SR04 · Tinkercad
 
-## Licença
-
-[MIT](LICENSE)
-
 ## Repositórios do projeto
 - Principal: [passo-seguro](https://github.com/Passo-Seguro/passo-seguro)
 - GenAI: [passo-seguro-genai](https://github.com/Passo-Seguro/passo-seguro-genai) · Dados: [passo-seguro-dados](https://github.com/Passo-Seguro/passo-seguro-dados) · Visão: [passo-seguro-visao](https://github.com/Passo-Seguro/passo-seguro-visao) · RPA: [passo-seguro-rpa](https://github.com/Passo-Seguro/passo-seguro-rpa) · Robô: [passo-seguro-robo](https://github.com/Passo-Seguro/passo-seguro-robo)
