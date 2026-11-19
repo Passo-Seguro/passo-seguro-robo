@@ -123,9 +123,11 @@ O planejamento, os requisitos e a evolução dessa versão estão em [docs/01-re
 
 ## Carrinho finalizado
 
-<!-- PREENCHER: salve a foto em docs/img/carrinho-finalizado.jpg e tire este comentário
-![Carrinho finalizado](docs/img/carrinho-finalizado.jpg)
--->
+O carrinho montado, em funcionamento (14 s). Clique na animação para abrir o vídeo com som.
+
+[![Carrinho em funcionamento](docs/video/robo-carrinho.gif)](docs/video/robo-carrinho.mp4)
+
+[▶ Vídeo com som (MP4, 1,7 MB)](docs/video/robo-carrinho.mp4)
 
 ## Organização do repositório
 
