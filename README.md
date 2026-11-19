@@ -123,11 +123,22 @@ O planejamento, os requisitos e a evolução dessa versão estão em [docs/01-re
 
 ## Carrinho finalizado
 
-O carrinho montado, em funcionamento (14 s). Clique na animação para abrir o vídeo com som.
+O carrinho montado e em funcionamento. Clique em uma animação para abrir o vídeo com som.
 
-[![Carrinho em funcionamento](docs/video/robo-carrinho.gif)](docs/video/robo-carrinho.mp4)
-
-[▶ Vídeo com som (MP4, 1,7 MB)](docs/video/robo-carrinho.mp4)
+<table>
+  <tr>
+    <td align="center">
+      <a href="docs/video/robo-carrinho.mp4"><img src="docs/video/robo-carrinho.gif" width="260" alt="Carrinho em funcionamento"></a><br>
+      <b>Em funcionamento</b> (14 s)<br>
+      <a href="docs/video/robo-carrinho.mp4">▶ vídeo com som (MP4, 1,7 MB)</a>
+    </td>
+    <td align="center">
+      <a href="docs/video/robo-controle-ps4.mp4"><img src="docs/video/robo-controle-ps4.gif" width="260" alt="Carrinho pareado e dirigido pelo controle de PS4"></a><br>
+      <b>Pareado e dirigido pelo controle de PS4</b> (21 s)<br>
+      <a href="docs/video/robo-controle-ps4.mp4">▶ vídeo com som (MP4, 3,6 MB)</a>
+    </td>
+  </tr>
+</table>
 
 ## Organização do repositório
 
