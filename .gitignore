@@ -224,3 +224,15 @@ __marimo__/
 *.tfstate
 *.tfstate.*
 secrets.h
+
+# Arduino / compilação (do repositório do carrinho)
+*.elf
+*.bin
+*.map
+
+# Editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
