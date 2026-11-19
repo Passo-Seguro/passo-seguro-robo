@@ -109,4 +109,4 @@ Itens além do MVP: alerta sonoro (buzzer), envio da distância para o app, filt
 | v3.1 | Versão alternativa com o app **Dabble** (módulo Gamepad) — mantida em `src/arduino/carrinho_dabble` |
 | v4 (final) | Volta para o app serial, motores em velocidade máxima, código reorganizado e comentado |
 
-Os códigos de teste isolado criados durante a evolução (motores, Bluetooth, sensor e buzzer) não estão neste repositório: ficam em `code/testes/` do repositório do grupo, <https://github.com/kaikyalvaro1708/cp-arduino-car>.
+Os códigos de teste isolado criados durante a evolução inicial (motores, Bluetooth, sensor e buzzer) foram utilizados nas validações preliminares do projeto.

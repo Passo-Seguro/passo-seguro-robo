@@ -9,8 +9,6 @@ Ficha Técnica: [README do repositório principal](https://github.com/Passo-Segu
 | Júlia Marques | 98680 |
 | Matheus Gusmão | 550826 |
 
-Código, dados e histórico trazidos do repositório do carrinho do grupo, [cp2-carrinho--tinyml](https://github.com/JuanPinheiroFIAP/cp2-carrinho--tinyml) (Juan Pinheiro de França), com os commits originais.
-
 ---
 
 ## Global Solution CitizenTech — Robô Inspetor de Acessibilidade
@@ -23,7 +21,7 @@ Entrega de **Project-Based Maker Lab** (componente *Físico*): o carrinho-robô 
 
 | Campo | Resposta |
 |---|---|
-| **Nome do produto** | Robô Inspetor de Acessibilidade (nome provisório, a alinhar com o grupo) |
+| **Nome do produto** | Robô Inspetor de Acessibilidade |
 | **Cidadão e território** | pessoas com deficiência ou mobilidade reduzida e idosos; calçadas, corredores e rampas de áreas urbanas; agentes públicos que cuidam da manutenção |
 | **Problema, em uma frase** | obstáculos, degraus, pisos irregulares e rampas íngremes demais impedem a circulação de quem tem mobilidade reduzida e só são conhecidos quando alguém reclama |
 | **Proposta de valor** | um robô de baixo custo que percorre o trecho sozinho, detecta cada barreira e gera um relatório para apoiar a manutenção |
@@ -150,7 +148,6 @@ passo-seguro-robo/
 │   ├── 07-versao-esp32-ps4.md             versão 2: hardware, controles, códigos e problemas resolvidos
 │   ├── 08-tinyml.md                       relatório do TinyML (Aulas 19 e 20)
 │   ├── 09-gs-robo-inspetor.md             Global Solution: documentação do robô inspetor de acessibilidade
-│   ├── roteiro-video-gs.md                roteiro do vídeo da Global Solution
 │   └── img/                               prints do Edge Impulse
 ├── dados/tinyml/                      ← dataset, scripts de captura e biblioteca do modelo de distância (Check Point 2)
 ├── dados/gs-piso/                     ← dataset de vibração do piso, scripts de coleta e biblioteca do modelo (Global Solution)
@@ -169,20 +166,15 @@ passo-seguro-robo/
     └── carrinho_dabble/               ← versão 1: alternativa com o app Dabble
 ```
 
-Os códigos de teste isolado da versão 1 (motores, Bluetooth, sensor e buzzer) ficam no repositório do grupo: <https://github.com/kaikyalvaro1708/cp-arduino-car> (pasta `code/testes/`).
-
 ## Documentação
 
 | Documento | Conteúdo |
 |---|---|
 | [Versão 2: ESP32 e PS4](docs/07-versao-esp32-ps4.md) | componentes, pinos, controles, como compilar, problemas e soluções |
 | [**Global Solution: robô inspetor**](docs/09-gs-robo-inspetor.md) | problema, solução, ligação, integração do MPU-6050 com a IA, dados, modelo, patrulha, instalação, testes, IA responsável e ODS |
-| [Roteiro do vídeo da GS](docs/roteiro-video-gs.md) | roteiro de até 6 minutos |
 | [TinyML](docs/08-tinyml.md) | sensor, pré-processamento, classes, dataset, treino no Edge Impulse, teste na placa e integração (Check Point 2) |
 | [Dados do TinyML](dados/tinyml/README.md) | arquivos e passo a passo para reproduzir |
 | [Requisitos e evolução (versão 1)](docs/01-requisitos-e-planejamento.md) | requisitos, proposta, MVP, backlog e decisões do Check Point 01 |
-
-Os documentos do Check Point 01 sobre projeto mecânico, hardware, software, testes e evidências (numerados de 02 a 06) estão no repositório do grupo: <https://github.com/kaikyalvaro1708/cp-arduino-car>. Por isso `docs/01` tem links para arquivos que não estão nesta pasta.
 
 ## Tecnologias
 

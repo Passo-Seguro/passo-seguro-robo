@@ -1,9 +1,9 @@
 [project]
-name = "carrinho"
+name = "passo-seguro-robo"
 version = "0.1.0"
-description = ""
+description = "Robo Inspetor de Acessibilidade - Project-Based Maker Lab"
 authors = [
-    {name = "JuanPinheiroFIAP",email = "rm552202@fiap.com.br"}
+    {name = "Passo Seguro"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
