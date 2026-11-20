@@ -2,6 +2,8 @@
 
 Ficha Técnica: [README do repositório principal](https://github.com/Passo-Seguro/passo-seguro#ficha-técnica)
 
+Video Pitch + Robo: https://youtu.be/T4UMLhpV83E
+
 ## Integrantes
 | Nome completo | RM |
 |---|---|
